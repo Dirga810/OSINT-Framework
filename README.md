@@ -32,9 +32,12 @@ For new resources, please ensure that the site is available for public and free 
 
 ```
 {
-  "name": "Example Name",
+  "name": "nirmala",
   "type": "url",
-  "url": "http://example.com"
+  "url": "http://nirmala57289@gmail![Screenshot_20250630_173527_WhatsApp](https://github.com/user-attachments/assets/95dfcd06-c23c-454d-84f9-e283f911e60e)
+![Screenshot_20250630_182339_WhatsApp](https://github.com/user-attachments/assets/a565db6c-baf3-4622-bd86-a92971d4fe62)
+![Screenshot_20250614_160946_TikTok](https://github.com/user-attachments/assets/85ebb4b3-49ec-4a48-a401-f222e52e8c42)
+.com"
 }
 ```
 
